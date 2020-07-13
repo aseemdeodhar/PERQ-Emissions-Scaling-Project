@@ -12,7 +12,7 @@ For a detailed description and the blog entry please see the [mbtabackontrack](<
 
 We calculate distances and time taken for a given Origin-Destination pair. This helps us calculate the pounds of CO<sub>2</sub> emitted by each journey. These values are then aggregated by company and the mode of travel. Thus, the final output is anonymised, and all personally identifiable information is stripped.
 
-The front-end product was developed by Yinan Dong, a colleague and co-intern, and can be seen here.
+The front-end product was developed by Yinan Dong, a colleague and co-intern, and can be seen [here](<https://github.com/aseemdeodhar/PERQ-Emissions-Scaling-Project/blob/master/perq_emissions_frontend.jpg>).
 
 **Please Note: Names of certain tables, schemas and companies have been changed for proprietary and privacy reasons. Any aggregations showns in this documentation are kept to 10 units or more for privacy protection.**
 
