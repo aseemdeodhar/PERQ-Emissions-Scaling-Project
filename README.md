@@ -15,3 +15,5 @@ We calculate distances and time taken for a given Origin-Destination pair. This 
 The front-end product was developed by Yinan Dong, a colleague and co-intern, and can be seen here.
 
 **Please Note: Names of certain tables, schemas and companies have been changed for proprietary and privacy reasons. Any aggregations showns in this documentation are kept to 10 units or more for privacy protection.**
+
+_A detailed documentation of the script flow with sample data output tables can be found [here](<https://aseemdeodhar.com/project/perq/>)._
